@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align='center'>
+  Hi there 👋
+</div>
 
 <!--
 **irubey/irubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +19,13 @@ Here are some ideas to get you started:
 
 
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/isaac-rubey-511789143">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
