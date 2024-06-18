@@ -56,5 +56,8 @@ I am a Full Stack Developer and Analyst from Denver, CO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3" **alt="D3" width="40" height="40"/>  
 </div>
 
+---
+
+Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irubey&layout=compact&theme=vision-friendly-dark)](https://github.com/irubey/github-readme-stats)
 
