@@ -38,7 +38,7 @@ I am a Full Stack Developer and Analyst from Denver, CO.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Isaac-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-rubey-511789143/)
 
 ---
-
+<div align="center">
 ### 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
@@ -56,3 +56,4 @@ I am a Full Stack Developer and Analyst from Denver, CO.
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irubey&layout=compact&theme=vision-friendly-dark)](https://github.com/irubey/github-readme-stats)
+</div>
