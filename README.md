@@ -53,6 +53,9 @@ I am a Full Stack Developer from Denver, CO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" **alt="tailwind" width="40" height="40"/>
   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="tailwind" **alt="tailwind" width="40" height="40"/>
+  
+  
   
   
   
