@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://giphy.com/embed/h8RDGogSns9wpOJFzR" width="600" height="300" />
+  <img src="[https://giphy.com/embed/h8RDGogSns9wpOJFzR](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRqbHJ3YzlpbTJ6enI4c29saTk1eWtjM2JuMXB2YW03ZGF2djdhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.webp)" width="600" height="300" />
 </div>
-<iframe src="https://giphy.com/embed/h8RDGogSns9wpOJFzR" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h8RDGogSns9wpOJFzR">via GIPHY</a></p>
+
