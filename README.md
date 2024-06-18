@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me:
-I am a Full Stack Developer from Denver, CO.
+I am a Full Stack Developer and Analyst from Denver, CO.
 - 📈 I'm working as a data analyst helping local business leaders better understand their business health.
 - 🌱 Developing web applications focused on using data analytics to help coaches better underststand the needs of their athletes.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Isaac-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-rubey-511789143/)
