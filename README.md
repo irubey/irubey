@@ -49,8 +49,8 @@ I am a Full Stack Developer from Denver, CO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="Next" **alt="Next" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="Next" **alt="Next" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Next" **alt="Next" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3" **alt="D3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
   
   
   
