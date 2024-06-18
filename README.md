@@ -41,8 +41,6 @@ I am a Full Stack Developer and Analyst from Denver, CO.
 <div align="center">
 🛠️ Languages and Tools:
 </br>
-
-  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -58,8 +56,5 @@ I am a Full Stack Developer and Analyst from Denver, CO.
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3" **alt="D3" width="40" height="40"/>  
 </div>
 </br>
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irubey&layout=compact&theme=vision-friendly-dark)](https://github.com/irubey/github-readme-stats)
 </div>
