@@ -39,7 +39,7 @@ I am a Full Stack Developer and Analyst from Denver, CO.
 
 ---
 
-🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
