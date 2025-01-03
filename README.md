@@ -63,6 +63,4 @@ I am a Full Stack Developer and Analyst from Denver, CO.
 
 ---
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irubey&layout=compact&theme=vision-friendly-dark)](https://github.com/irubey/github-readme-stats)
--->
