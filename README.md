@@ -68,7 +68,3 @@ I’m a Full Stack Developer and Data Analyst based in Denver, CO, with a passio
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="D3" width="40" height="40"/>  
   
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irubey&layout=compact&theme=vision-friendly-dark)](https://github.com/irubey/github-readme-stats)
