@@ -2,7 +2,7 @@
 
 Founder and engineer in Denver, CO. I build data-heavy web applications and the pipelines behind them.
 
-**[SendSage](https://sendsage.ai)** is my main project: a climbing logbook and analytics platform. It imports the logbook you already have (Mountain Project today) and then gives you things the source platform doesn't: natural language logging across 10+ activity types, multi-discipline tracking, and visualizations built to actually teach you something about your own climbing history rather than just display it.
+**[SendSage](https://sendsage.ai/?utm_medium=owned&utm_source=github&utm_campaign=profile)** is my main project: a climbing logbook and analytics platform. It imports the logbook you already have (Mountain Project today) and then gives you things the source platform doesn't: natural language logging across 10+ activity types, multi-discipline tracking, and visualizations built to actually teach you something about your own climbing history rather than just display it.
 
 I built it end to end. Next.js and TypeScript on the front, FastAPI and Python on the back, Postgres on Supabase, in a pnpm and Turbo monorepo. Two pieces I'm particularly happy with: a LangGraph enrichment agent that resolves imported ticks to real routes, areas, and grades, and a natural language logging pipeline that maps free-form session notes onto per-discipline data structures.
 
