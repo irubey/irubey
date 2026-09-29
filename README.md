@@ -21,4 +21,4 @@ TypeScript, Python, Go, React, Next.js, FastAPI, Postgres, Supabase, LangGraph, 
 
 ### Elsewhere
 
-[sendsage.ai](https://sendsage.ai) · [LinkedIn](https://www.linkedin.com/in/isaac-rubey-511789143/)
+[sendsage.ai](https://sendsage.ai/?utm_medium=owned&utm_source=github&utm_campaign=profile) · [LinkedIn](https://www.linkedin.com/in/isaac-rubey-511789143/)
