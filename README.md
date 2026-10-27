@@ -6,7 +6,7 @@ Founder and engineer in Denver, CO. I build data-heavy web applications and the 
 
 I built it end to end. Next.js and TypeScript on the front, FastAPI and Python on the back, Postgres on Supabase, in a pnpm and Turbo monorepo. Two pieces I'm particularly happy with: a LangGraph enrichment agent that resolves imported ticks to real routes, areas, and grades, and a natural language logging pipeline that maps free-form session notes onto per-discipline data structures.
 
-I also take on fractional technical work: architecture, data pipelines, and analytics for small teams.
+I also take on fractional technical work: custom apps, architecture, data pipelines, and analytics for small teams.
 
 ### Open source
 
